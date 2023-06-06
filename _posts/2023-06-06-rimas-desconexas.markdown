@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rimas Desconexas
-date: 2023-06-28 15:29
+date: 2023-06-06 15:29
 comments: true
 external-url:
 categories: Poesia
